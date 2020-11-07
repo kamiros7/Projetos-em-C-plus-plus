@@ -1,0 +1,5 @@
+0 TecProg
+1 Calculo_3
+2 ED_1 
+3 Fisica_2
+4 Eletricidade

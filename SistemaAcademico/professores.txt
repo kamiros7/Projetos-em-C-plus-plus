@@ -1,0 +1,4 @@
+0 Einsten 15000 0 Fisica_Moderna
+1 Newton 20500 0 Fisica_Classica
+2 Mineto 8750 2500 Criptografia
+3 Francismar 7500 1250 Campos_vetoriais

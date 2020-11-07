@@ -1,0 +1,4 @@
+0 Halliday Fisica_Teorica
+1 Sakidu Circuitos_Eletricos
+2 Moyses Fisica_Teorica
+3 Stewart Calculo

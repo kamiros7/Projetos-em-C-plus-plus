@@ -1,0 +1,12 @@
+0 Einsten
+1 Newton
+2 Mineto
+0 Camilo
+1 Lucas 
+2 Victor
+3 Gabrielle
+0 Joao
+1 Luciano
+2 Gustavo
+4 Luan
+3 Francismar

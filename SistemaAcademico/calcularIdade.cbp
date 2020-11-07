@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="calcularIdade" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/calcularIdade" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/calcularIdade" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="alunos.cpp" />
+		<Unit filename="alunos.h" />
+		<Unit filename="areaConhecimento.cpp" />
+		<Unit filename="areaConhecimento.h" />
+		<Unit filename="departamento.cpp" />
+		<Unit filename="departamento.h" />
+		<Unit filename="disciplina.cpp" />
+		<Unit filename="disciplina.h" />
+		<Unit filename="estagiario.cpp" />
+		<Unit filename="estagiario.h" />
+		<Unit filename="lista.h" />
+		<Unit filename="listaAluno.cpp" />
+		<Unit filename="listaAluno.h" />
+		<Unit filename="listaAreaConhecimento.cpp" />
+		<Unit filename="listaAreaConhecimento.h" />
+		<Unit filename="listaDepartamento.cpp" />
+		<Unit filename="listaDepartamento.h" />
+		<Unit filename="listaDisciplina.cpp" />
+		<Unit filename="listaDisciplina.h" />
+		<Unit filename="listaEstagiario.cpp" />
+		<Unit filename="listaEstagiario.h" />
+		<Unit filename="listaLivro.cpp" />
+		<Unit filename="listaLivro.h" />
+		<Unit filename="listaPessoa.cpp" />
+		<Unit filename="listaPessoa.h" />
+		<Unit filename="listaProfessor.cpp" />
+		<Unit filename="listaProfessor.h" />
+		<Unit filename="listaUniversidade.cpp" />
+		<Unit filename="listaUniversidade.h" />
+		<Unit filename="livro.cpp" />
+		<Unit filename="livro.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pessoa.cpp" />
+		<Unit filename="pessoa.h" />
+		<Unit filename="principal.cpp" />
+		<Unit filename="principal.h" />
+		<Unit filename="professor.cpp" />
+		<Unit filename="professor.h" />
+		<Unit filename="universidade.cpp" />
+		<Unit filename="universidade.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

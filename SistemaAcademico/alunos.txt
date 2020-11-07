@@ -1,0 +1,8 @@
+0 2063166 Camilo
+1 1996762 Lucas 
+2 2190907 Victor
+3 2178654 Gabrielle
+0 0 Joao
+1 0 Luciano
+2 0 Gustavo
+4 2063166 Luan
